@@ -10,11 +10,11 @@ The association rule learning is one of the very important concepts of machine l
 
 Association rule learning works on the concept of If and Else Statement, such as if A then B. If element is called antecedent, and then statement is called as Consequent. These types of relationships where we can find out some association or relation between two items is known as single cardinality. It is all about creating rules, and if the number of items increases, then cardinality also increases accordingly. So, to measure the associations between thousands of data items, there are several metrics. These metrics are given below:
 
-Support
+-> Support
 
-Confidence
+-> Confidence
 
-Lift
+-> Lift
 
 This assignment will study following Questions :
 
